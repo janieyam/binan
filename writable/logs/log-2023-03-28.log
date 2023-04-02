@@ -1,0 +1,270 @@
+CRITICAL - 2023-03-28 04:59:57 --> Invalid file: "controlmain.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('controlmain.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('controlmain', [], true)
+ 3 APPPATH\Config\Routes.php(36): view('controlmain')
+ 4 SYSTEMPATH\CodeIgniter.php(883): CodeIgniter\Router\RouteCollection->Config\{closure}()
+ 5 SYSTEMPATH\CodeIgniter.php(486): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-28 05:00:04 --> Invalid file: "controlmain.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('controlmain.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('controlmain', [], true)
+ 3 APPPATH\Config\Routes.php(36): view('controlmain')
+ 4 SYSTEMPATH\CodeIgniter.php(883): CodeIgniter\Router\RouteCollection->Config\{closure}()
+ 5 SYSTEMPATH\CodeIgniter.php(486): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-28 05:00:46 --> Invalid file: "controlmain.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('controlmain.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('controlmain', [], true)
+ 3 APPPATH\Config\Routes.php(36): view('controlmain')
+ 4 SYSTEMPATH\CodeIgniter.php(883): CodeIgniter\Router\RouteCollection->Config\{closure}()
+ 5 SYSTEMPATH\CodeIgniter.php(486): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-28 05:00:46 --> Invalid file: "controlmain.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('controlmain.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('controlmain', [], true)
+ 3 APPPATH\Config\Routes.php(36): view('controlmain')
+ 4 SYSTEMPATH\CodeIgniter.php(883): CodeIgniter\Router\RouteCollection->Config\{closure}()
+ 5 SYSTEMPATH\CodeIgniter.php(486): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-28 05:05:56 --> Invalid file: "controlmain.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('controlmain.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('controlmain', [], true)
+ 3 APPPATH\Config\Routes.php(36): view('controlmain')
+ 4 SYSTEMPATH\CodeIgniter.php(883): CodeIgniter\Router\RouteCollection->Config\{closure}()
+ 5 SYSTEMPATH\CodeIgniter.php(486): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-28 05:05:57 --> Invalid file: "controlmain.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('controlmain.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('controlmain', [], true)
+ 3 APPPATH\Config\Routes.php(36): view('controlmain')
+ 4 SYSTEMPATH\CodeIgniter.php(883): CodeIgniter\Router\RouteCollection->Config\{closure}()
+ 5 SYSTEMPATH\CodeIgniter.php(486): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-28 05:06:06 --> Invalid file: "controlmain.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('controlmain.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('controlmain', [], true)
+ 3 APPPATH\Config\Routes.php(36): view('controlmain')
+ 4 SYSTEMPATH\CodeIgniter.php(883): CodeIgniter\Router\RouteCollection->Config\{closure}()
+ 5 SYSTEMPATH\CodeIgniter.php(486): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-28 05:06:07 --> Invalid file: "controlmain.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('controlmain.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('controlmain', [], true)
+ 3 APPPATH\Config\Routes.php(36): view('controlmain')
+ 4 SYSTEMPATH\CodeIgniter.php(883): CodeIgniter\Router\RouteCollection->Config\{closure}()
+ 5 SYSTEMPATH\CodeIgniter.php(486): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-28 05:06:31 --> Invalid file: "controlmain.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('controlmain.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('controlmain', [], true)
+ 3 APPPATH\Config\Routes.php(36): view('controlmain')
+ 4 SYSTEMPATH\CodeIgniter.php(883): CodeIgniter\Router\RouteCollection->Config\{closure}()
+ 5 SYSTEMPATH\CodeIgniter.php(486): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-28 05:06:32 --> Invalid file: "controlmain.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('controlmain.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('controlmain', [], true)
+ 3 APPPATH\Config\Routes.php(36): view('controlmain')
+ 4 SYSTEMPATH\CodeIgniter.php(883): CodeIgniter\Router\RouteCollection->Config\{closure}()
+ 5 SYSTEMPATH\CodeIgniter.php(486): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-28 05:06:32 --> Invalid file: "controlmain.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('controlmain.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('controlmain', [], true)
+ 3 APPPATH\Config\Routes.php(36): view('controlmain')
+ 4 SYSTEMPATH\CodeIgniter.php(883): CodeIgniter\Router\RouteCollection->Config\{closure}()
+ 5 SYSTEMPATH\CodeIgniter.php(486): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-28 05:06:33 --> Invalid file: "controlmain.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('controlmain.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('controlmain', [], true)
+ 3 APPPATH\Config\Routes.php(36): view('controlmain')
+ 4 SYSTEMPATH\CodeIgniter.php(883): CodeIgniter\Router\RouteCollection->Config\{closure}()
+ 5 SYSTEMPATH\CodeIgniter.php(486): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-28 05:07:30 --> Invalid file: "controlmain.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('controlmain.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('controlmain', [], true)
+ 3 APPPATH\Config\Routes.php(36): view('controlmain')
+ 4 SYSTEMPATH\CodeIgniter.php(883): CodeIgniter\Router\RouteCollection->Config\{closure}()
+ 5 SYSTEMPATH\CodeIgniter.php(486): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-28 05:07:31 --> Invalid file: "controlmain.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('controlmain.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('controlmain', [], true)
+ 3 APPPATH\Config\Routes.php(36): view('controlmain')
+ 4 SYSTEMPATH\CodeIgniter.php(883): CodeIgniter\Router\RouteCollection->Config\{closure}()
+ 5 SYSTEMPATH\CodeIgniter.php(486): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-28 05:09:04 --> Invalid file: "controlmain.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('controlmain.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('controlmain', [], true)
+ 3 APPPATH\Config\Routes.php(36): view('controlmain')
+ 4 SYSTEMPATH\CodeIgniter.php(883): CodeIgniter\Router\RouteCollection->Config\{closure}()
+ 5 SYSTEMPATH\CodeIgniter.php(486): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-28 05:09:05 --> Invalid file: "controlmain.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('controlmain.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('controlmain', [], true)
+ 3 APPPATH\Config\Routes.php(36): view('controlmain')
+ 4 SYSTEMPATH\CodeIgniter.php(883): CodeIgniter\Router\RouteCollection->Config\{closure}()
+ 5 SYSTEMPATH\CodeIgniter.php(486): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-28 05:32:25 --> Invalid file: "editor.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('editor.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('editor', [], true)
+ 3 APPPATH\Config\Routes.php(36): view('editor')
+ 4 SYSTEMPATH\CodeIgniter.php(883): CodeIgniter\Router\RouteCollection->Config\{closure}()
+ 5 SYSTEMPATH\CodeIgniter.php(486): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-28 05:38:37 --> Invalid file: "editor.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('editor.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('editor', [], true)
+ 3 APPPATH\Config\Routes.php(36): view('editor')
+ 4 SYSTEMPATH\CodeIgniter.php(883): CodeIgniter\Router\RouteCollection->Config\{closure}()
+ 5 SYSTEMPATH\CodeIgniter.php(486): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-28 05:38:39 --> Invalid file: "editor.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('editor.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('editor', [], true)
+ 3 APPPATH\Config\Routes.php(36): view('editor')
+ 4 SYSTEMPATH\CodeIgniter.php(883): CodeIgniter\Router\RouteCollection->Config\{closure}()
+ 5 SYSTEMPATH\CodeIgniter.php(486): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-28 09:29:08 --> Undefined variable $content
+in APPPATH\Views\quill_js.php on line 17.
+ 1 APPPATH\Views\quill_js.php(17): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $content', 'APPPATH\\Views\\quill_js.php', 17)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\quill_js.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('quill_js', [], true)
+ 5 APPPATH\Controllers\Blog.php(13): view('quill_js')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Blog->editor()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Blog))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-28 09:29:09 --> Undefined variable $content
+in APPPATH\Views\quill_js.php on line 17.
+ 1 APPPATH\Views\quill_js.php(17): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $content', 'APPPATH\\Views\\quill_js.php', 17)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\quill_js.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('quill_js', [], true)
+ 5 APPPATH\Controllers\Blog.php(13): view('quill_js')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Blog->editor()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Blog))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-28 09:29:09 --> Undefined variable $content
+in APPPATH\Views\quill_js.php on line 17.
+ 1 APPPATH\Views\quill_js.php(17): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $content', 'APPPATH\\Views\\quill_js.php', 17)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\quill_js.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('quill_js', [], true)
+ 5 APPPATH\Controllers\Blog.php(13): view('quill_js')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Blog->editor()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Blog))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-28 23:45:17 --> Undefined variable $user
+in APPPATH\Views\admin.php on line 41.
+ 1 APPPATH\Views\admin.php(41): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $user', 'APPPATH\\Views\\admin.php', 41)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\admin.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('admin', [], true)
+ 5 APPPATH\Controllers\Main.php(17): view('admin')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Main->post()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-28 23:45:18 --> Undefined variable $user
+in APPPATH\Views\admin.php on line 41.
+ 1 APPPATH\Views\admin.php(41): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $user', 'APPPATH\\Views\\admin.php', 41)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\admin.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('admin', [], true)
+ 5 APPPATH\Controllers\Main.php(17): view('admin')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Main->post()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-28 23:46:37 --> Undefined variable $user
+in APPPATH\Views\admin.php on line 40.
+ 1 APPPATH\Views\admin.php(40): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $user', 'APPPATH\\Views\\admin.php', 40)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\admin.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('admin', [], true)
+ 5 APPPATH\Controllers\Main.php(17): view('admin')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Main->post()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-28 23:46:38 --> Undefined variable $user
+in APPPATH\Views\admin.php on line 40.
+ 1 APPPATH\Views\admin.php(40): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $user', 'APPPATH\\Views\\admin.php', 40)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\admin.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('admin', [], true)
+ 5 APPPATH\Controllers\Main.php(17): view('admin')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Main->post()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-28 23:47:39 --> Undefined variable $user
+in APPPATH\Views\admin.php on line 40.
+ 1 APPPATH\Views\admin.php(40): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $user', 'APPPATH\\Views\\admin.php', 40)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\admin.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('admin', [], true)
+ 5 APPPATH\Controllers\Main.php(17): view('admin')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Main->post()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-28 23:47:40 --> Undefined variable $user
+in APPPATH\Views\admin.php on line 40.
+ 1 APPPATH\Views\admin.php(40): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $user', 'APPPATH\\Views\\admin.php', 40)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\admin.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('admin', [], true)
+ 5 APPPATH\Controllers\Main.php(17): view('admin')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Main->post()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()

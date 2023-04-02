@@ -1,0 +1,202 @@
+CRITICAL - 2023-03-30 07:22:01 --> Undefined variable $user
+in APPPATH\Views\admin.php on line 40.
+ 1 APPPATH\Views\admin.php(40): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $user', 'APPPATH\\Views\\admin.php', 40)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\admin.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('admin', [], true)
+ 5 APPPATH\Controllers\Main.php(17): view('admin')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Main->post()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-30 07:22:44 --> Call to undefined function form_open()
+in APPPATH\Views\admin.php on line 60.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('admin', [], true)
+ 4 APPPATH\Controllers\Main.php(17): view('admin')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Main->post()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-30 07:22:45 --> Call to undefined function form_open()
+in APPPATH\Views\admin.php on line 60.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('admin', [], true)
+ 4 APPPATH\Controllers\Main.php(17): view('admin')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Main->post()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-03-30 07:51:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-03-30 07:51:15 --> Invalid file: "login_page.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('login_page.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('login_page', [], true)
+ 3 APPPATH\Controllers\Main.php(24): view('login_page')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Main->login()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-03-30 07:52:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-03-30 07:52:54 --> Invalid file: "login_page.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('login_page.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('login_page', [], true)
+ 3 APPPATH\Controllers\Main.php(24): view('login_page')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Main->login()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-03-30 07:53:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-03-30 07:53:10 --> Invalid file: "login_page.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('login_page.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('login_page', [], true)
+ 3 APPPATH\Controllers\Main.php(24): view('login_page')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Main->login()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-03-30 07:53:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-03-30 07:53:11 --> Invalid file: "login_page.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('login_page.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('login_page', [], true)
+ 3 APPPATH\Controllers\Main.php(24): view('login_page')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Main->login()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-03-30 07:53:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-03-30 07:53:12 --> Invalid file: "login_page.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('login_page.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('login_page', [], true)
+ 3 APPPATH\Controllers\Main.php(24): view('login_page')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Main->login()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-03-30 07:53:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-03-30 07:53:30 --> Invalid file: "login_page.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('login_page.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('login_page', [], true)
+ 3 APPPATH\Controllers\Main.php(24): view('login_page')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Main->login()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-03-30 07:53:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-03-30 07:53:31 --> Invalid file: "login_page.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('login_page.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('login_page', [], true)
+ 3 APPPATH\Controllers\Main.php(24): view('login_page')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Main->login()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-30 07:54:19 --> Invalid file: "login_page.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('login_page.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('login_page', [], true)
+ 3 APPPATH\Controllers\Main.php(22): view('login_page')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Main->login()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-30 07:54:20 --> Invalid file: "login_page.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('login_page.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('login_page', [], true)
+ 3 APPPATH\Controllers\Main.php(22): view('login_page')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Main->login()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-30 07:54:28 --> Invalid file: "login_page.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('login_page.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('login_page', [], true)
+ 3 APPPATH\Controllers\Main.php(22): view('login_page')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Main->login()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-30 07:54:28 --> Invalid file: "login_page.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('login_page.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('login_page', [], true)
+ 3 APPPATH\Controllers\Main.php(22): view('login_page')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Main->login()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-30 07:54:33 --> Invalid file: "login_page.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('login_page.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('login_page', [], true)
+ 3 APPPATH\Controllers\Main.php(22): view('login_page')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Main->login()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-30 07:55:44 --> Invalid file: "login_page.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('login_page.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('login_page', [], true)
+ 3 APPPATH\Controllers\Main.php(21): view('login_page')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Main->login()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-30 07:55:45 --> Invalid file: "login_page.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('login_page.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('login_page', [], true)
+ 3 APPPATH\Controllers\Main.php(21): view('login_page')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Main->login()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-30 07:57:05 --> Invalid file: "login_page.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('login_page.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('login_page', [], true)
+ 3 APPPATH\Controllers\Main.php(21): view('login_page')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Main->login()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-30 07:57:11 --> Invalid file: "login_page.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('login_page.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('login_page', [], true)
+ 3 APPPATH\Controllers\Main.php(21): view('login_page')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Main->login()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-30 08:29:07 --> Call to undefined function form_open()
+in APPPATH\Views\loginPage.php on line 53.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('loginPage', [], true)
+ 4 APPPATH\Controllers\Main.php(21): view('loginPage')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Main->login()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-30 08:29:16 --> Call to undefined function form_open()
+in APPPATH\Views\loginPage.php on line 53.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('loginPage', [], true)
+ 4 APPPATH\Controllers\Main.php(21): view('loginPage')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Main->login()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()

@@ -1,0 +1,55 @@
+CRITICAL - 2023-04-01 00:56:44 --> Undefined variable $header
+in APPPATH\Views\quill_js.php on line 59.
+ 1 APPPATH\Views\quill_js.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $header', 'APPPATH\\Views\\quill_js.php', 59)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\quill_js.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('quill_js', [], true)
+ 5 APPPATH\Controllers\Main.php(15): view('quill_js')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Main->editor()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-01 01:17:00 --> Undefined variable $pages
+in APPPATH\Views\quill_js.php on line 89.
+ 1 APPPATH\Views\quill_js.php(89): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $pages', 'APPPATH\\Views\\quill_js.php', 89)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\quill_js.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('quill_js', [], true)
+ 5 APPPATH\Controllers\Main.php(15): view('quill_js')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Main->editor()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-01 01:17:02 --> Undefined variable $pages
+in APPPATH\Views\quill_js.php on line 89.
+ 1 APPPATH\Views\quill_js.php(89): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $pages', 'APPPATH\\Views\\quill_js.php', 89)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\quill_js.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('quill_js', [], true)
+ 5 APPPATH\Controllers\Main.php(15): view('quill_js')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Main->editor()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-01 01:17:28 --> Undefined variable $pages
+in APPPATH\Views\quill_js.php on line 89.
+ 1 APPPATH\Views\quill_js.php(89): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $pages', 'APPPATH\\Views\\quill_js.php', 89)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\quill_js.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('quill_js', [], true)
+ 5 APPPATH\Controllers\Main.php(15): view('quill_js')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Main->editor()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-01 01:17:30 --> Undefined variable $pages
+in APPPATH\Views\quill_js.php on line 89.
+ 1 APPPATH\Views\quill_js.php(89): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $pages', 'APPPATH\\Views\\quill_js.php', 89)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\quill_js.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('quill_js', [], true)
+ 5 APPPATH\Controllers\Main.php(15): view('quill_js')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Main->editor()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
